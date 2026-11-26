@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/.github/">
+    <File Path=".github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/.github/docs/">
+    <File Path=".github/docs/use-cases.md" />
+    <File Path=".github/docs/UX prototype.png" />
+  </Folder>
+</Solution>
