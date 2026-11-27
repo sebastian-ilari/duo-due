@@ -9,7 +9,6 @@ This is a simple web application designed to help two users track their expenses
 * Keep files and folder names descriptive and meaningful
 * The backend and frontend should be separated into different projects within the duo-due solution
 
-
 ## Technology stack
 
 * Backend: C# .NET Core
@@ -29,3 +28,4 @@ This is a simple web application designed to help two users track their expenses
 
 * Add unit and integration tests to cover all business logic
 * The application maintains a persistent state in the browser, so that users can refresh the page without losing their data
+* The current debts are persisted in the database, so they don't have to be calculated based on all the expenses every time the page is loaded
