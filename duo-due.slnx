@@ -6,4 +6,7 @@
     <File Path=".github/docs/use-cases.md" />
     <File Path=".github/docs/UX prototype.png" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".mcp.json" />
+  </Folder>
 </Solution>
